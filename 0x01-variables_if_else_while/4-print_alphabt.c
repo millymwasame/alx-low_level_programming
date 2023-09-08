@@ -1,6 +1,6 @@
 /*
- * File: 4-print_alphabt.c
- * Auth: Brennan D Baraban
+ * File: 4-print_alphabt. - ALX
+ * Auth: Milly Mwasame
  */
 
 #include <stdio.h>
