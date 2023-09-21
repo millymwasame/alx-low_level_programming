@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * Appends the src string to the dest string
  * Overwrites the terminating null byte at the end of dest
