@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * _memset - ironnou
- * @s: pointer to char params
- * @b: data to change
- * @n: index
+ * _memset - Fills the first n bytes of the memory area pointed to by s withb constant byte
+ * @s: pointer to char parameter
+ * @b: constant byte
+ * @n: number of bytes
  * Return: *s
  */
 
