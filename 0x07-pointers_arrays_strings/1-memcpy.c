@@ -9,11 +9,11 @@
  */
 void simple_print_buffer(char *buffer, unsigned int size)
 {
-    unsigned int a;
+    unsigned int i;
 
-	for (a = 0; a < n; a++)
+	for (i = 0; i < n; i++)
 	{
-		dest[a] = src[a];
+		dest[j] = src[i];
 	}
 	return (dest);
 }
