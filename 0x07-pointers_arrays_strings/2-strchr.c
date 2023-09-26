@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * _strchr - prints found c
+ * _strchr -  locates character in a string
  * @s: pointer to char
- * @c: char params to found
+ * @c: char parameter to found
  * Return: *S
 */
 
