@@ -7,7 +7,7 @@
  *@n: size copied
  * Return: *dest
  */
-void simple_print_buffer(char *buffer, unsigned int size)
+char *_memcpy(char *dest, char *src, unsigned int n)
 {
     unsigned int i;
 
